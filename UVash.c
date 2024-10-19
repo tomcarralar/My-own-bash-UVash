@@ -1,4 +1,4 @@
-//Tomas Carretero Alarcon DNI:04640646M
+//Tomas Carretero Alarcon 
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
